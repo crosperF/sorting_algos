@@ -1,0 +1,1 @@
+This repo has the python code to all the sorting algorithms I've learnt.
